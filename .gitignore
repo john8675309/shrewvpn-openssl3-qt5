@@ -1,0 +1,15 @@
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.o
+*.so
+*.a
+*.lo
+*.la
+*.swp
+*.user
+*.DS_Store
+*.log
+bin/
+lib/
