@@ -95,9 +95,7 @@ This project is based on [Shrew Soft Inc.](https://www.shrew.net/download/ike) u
 ## 🙋‍♂️ Credits
 
 Modernization by John Hass - john8675309@gmail.com
-
 Original Author: Matthew Grooms – mgrooms@shrew.net
-
 OpenSSL 3 compatibility fixes, Qt5 migration, Fortinet testing, and enhancements.
 
 ---
