@@ -95,7 +95,9 @@ This project is based on [Shrew Soft Inc.](https://www.shrew.net/download/ike) u
 ## 🙋‍♂️ Credits
 
 Modernization by John Hass - john8675309@gmail.com
-Original Author: Matthew Grooms – mgrooms@shrew.net  
+
+Original Author: Matthew Grooms – mgrooms@shrew.net
+
 OpenSSL 3 compatibility fixes, Qt5 migration, Fortinet testing, and enhancements.
 
 ---
@@ -105,3 +107,6 @@ OpenSSL 3 compatibility fixes, Qt5 migration, Fortinet testing, and enhancements
 - [ ] Port GUI to Qt6 (optional)
 - [ ] Add GitHub Actions CI build
 - [ ] Add support for certificate authentication
+
+
+I don't know why I do things some times, I needed xauth in NetworkManager L2TP, this isn't even part of NetworkManager, And I spent the time.
